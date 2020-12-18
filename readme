@@ -1,6 +1,5 @@
-Yea this is my project for Engineering Programming in Python.
-
-Ideas
-  - Sports analytics
-  - Game
-  - This is an edit
+This is my final project for Engineering Program Python.
+A few Notes:
+1)This project was completed on Jupyter using Anaconda
+2)This project was completed using Python 3
+3)The .csv file must be in the same directory as the .ipynb to use this project
