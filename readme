@@ -1,5 +1,6 @@
-This is my final project for Engineering Program Python.
+This is my final project for Engineering Programing Python.
 A few Notes:
 1)This project was completed on Jupyter using Anaconda
 2)This project was completed using Python 3
 3)The .csv file must be in the same directory as the .ipynb to use this project
+ - The .csv file is from profootball reference. It consists of every WR, RB, TE, and QB that played during 2019 and their fantasy stats.
