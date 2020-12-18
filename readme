@@ -1,6 +1,12 @@
 This is my final project for Engineering Programming Python.
 A few Notes:
 1)This project was completed on Anaconda using Juypyter Notebooks
+
 2)This project was completed using Python 3
+
 3)The .csv file must be in the same directory as the .ipynb to use this project
  - The .csv file is from profootball reference. It consists of every WR, RB, TE, and QB that played during 2019 and their fantasy stats.
+
+4) Youtube Link of Demo
+ - https://youtu.be/83UUY2NcJCE
+ 
